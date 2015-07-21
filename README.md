@@ -25,7 +25,7 @@ EXPOSE 8080
 ```
 
 ```
-docker builder -t lambda-example .
+docker build -t lambda-example .
 ```
 
 To run:
