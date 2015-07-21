@@ -1,0 +1,28 @@
+{
+  "freeze": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": true,
+  "newcap": true,
+  "noempty": true,
+  "nonbsp": true,
+  "nonew": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": "lenient",
+  "maxlen": 80,
+  "es5": true,
+  "esnext": true,
+  "evil": false,
+  "expr": false,
+  "funcscope": true,
+  "globalstrict": true,
+  "loopfunc": false,
+  "shadow": false,
+  "validthis": true,
+  "node": true,
+  "globals": {
+    "describe": true,
+    "it": true
+  }
+}
