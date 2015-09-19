@@ -1,4 +1,4 @@
-FROM iojs:onbuild
+FROM node:onbuild
 
 EXPOSE 8080
 

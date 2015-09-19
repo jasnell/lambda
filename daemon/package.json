@@ -1,6 +1,6 @@
 {
   "name": "lambda-daemon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/lambdad.js",
   "scripts": {
@@ -10,11 +10,12 @@
   "author": "James M Snell <jasnell@us.ibm.com>",
   "license": "Apache v2.0",
   "dependencies": {
-    "body-parser": "^1.13.2",
-    "express": "^4.13.1",
-    "multer": "^1.0.1",
+    "body-parser": "^1.14.0",
+    "express": "^4.13.3",
+    "multer": "^1.0.3",
     "node-uuid": "^1.4.3",
     "passport-anonymous": "^1.0.1",
-    "passport-http": "^0.2.2"
-  }
+    "passport-http": "^0.3.0"
+  },
+  "private": true
 }
